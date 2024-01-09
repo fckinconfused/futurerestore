@@ -27,7 +27,7 @@
 
     * [tsschecker(fork)](https://github.com/1Conan/tsschecker);
     * * [jssy](https://github.com/tihmstar/jssy) (This is a submodule of tsschecker);
-    * [idevicerestore(fork)](https://github.com/futurerestore/idevicerestore)
+    * [idevicerestore(fork)](https://github.com/fckinconfused/idevicerestore)
 
   If you are cloning this repository you may run:
 
