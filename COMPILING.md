@@ -31,7 +31,7 @@
 
   If you are cloning this repository you may run:
 
-  ```git clone https://github.com/futurerestore/futurerestore --recursive```
+  ```git clone https://github.com/fckinconfused/futurerestore --recursive```
 
   which will clone these submodules for you.
 
